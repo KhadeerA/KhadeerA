@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KhadeerA
+- 👋 Hi, I’m @Khadeer
 - 👀 I’m interested in ...learning web technologies
 - 🌱 I’m currently learning ...web development
-- 💞️ I’m looking to collaborate on ...Creating Responsive Websites & Apps ans so on......
+- 💞️ I’m looking to collaborate on ...Creating Responsive Websites & Apps and so on......
 - 📫 How to reach me ... @ khadeer6777@gmial.com
 
 <!---
